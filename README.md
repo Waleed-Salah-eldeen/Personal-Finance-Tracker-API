@@ -8,7 +8,7 @@ A RESTful API for personal finance management, tracking income and expenses with
 - **Swagger Documentation** - Interactive API exploration.
 
 ## 🔧 Tech Stack
- **.NET 8** - High-performance backend
+- **.NET 8** - High-performance backend
 - **Entity Framework Core 8** - Data persistence
 - **AutoMapper** - Clean DTO transformations
 - **RESTful Standards** - Proper HTTP verbs and status codes
